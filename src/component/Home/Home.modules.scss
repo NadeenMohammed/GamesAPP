@@ -1,0 +1,48 @@
+
+.home
+{
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+    background-image: url("../image/paladins.b44d33d6e7ee1ba8.png");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center center;
+    color: gray;
+    background-color:rgba($color: #000000, $alpha: 0.5);
+}
+.overlay
+{
+    margin-top: 10px;
+}
+.overlay .btn 
+{
+    background-color: transparent !important;
+    color: gray;
+    font-size: larger;
+    border: 2px solid gray !important;
+}
+
+.overlay .btn:hover
+{
+    color: azure !important;
+    background-color: gray !important;
+}
+.games h1
+{
+    text-align: start;
+    color: gray !important;
+    font-size:2rem;
+}
+section {
+ margin: 0 !important;
+}
+
+
+ .cardd:hover
+{
+    transform: scale(1.089);
+    overflow: hidden;
+    transition: all .8s;
+
+
+}
